@@ -1,7 +1,7 @@
 Project: Deploy Static Website on AWS
 
 S3 Bucket Name: udacityrahix123
-CloudFront URL: https://d19nwa01e3vlkw.cloudfront.net/
+CloudFront URL: http://udacityrahix123.s3-website-us-east-1.amazonaws.com
 
 Description:
 This is a static website deployed on AWS S3 and distributed via CloudFront. The site includes HTML, CSS, and JavaScript files.
